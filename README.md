@@ -10,10 +10,10 @@ iii) Book data is loaded from a JSON file.
 
 # Getting Started
 To use the library management system, follow these steps:
-Clone the repository to your local machine.
-Open the 'library.html' file in your web browser.
-Use the search bar to search for books by name, author, subject, or date.
-Use the pagination links at the bottom of the page to navigate between pages.
+i) Clone the repository to your local machine.
+ii) Open the 'library.html' file in your web browser.
+iii) Use the search bar to search for books by name, author, subject, or date.
+iv) Use the pagination links at the bottom of the page to navigate between pages.
 
 # Credits
 The library management system was created by Nagaraj Arjun.
